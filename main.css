@@ -7,9 +7,13 @@ h3{
 #hero img{
 	height:25em;
 	width:60em;
-	
+	align:center;
+
 }
 img{
 	height:150px;
 	width:150px;
+	margin-top:15px;
+	margin-left:80px;
+	align:center;
 }
