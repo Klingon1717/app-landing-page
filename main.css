@@ -5,15 +5,15 @@ h3{
 	text-align: center;
 }
 #hero img{
-	height:25em;
-	width:60em;
-	align:center;
+	height:400%;
+	width:100%;
+	background-size:cover;
+	
 
 }
 img{
 	height:150px;
 	width:150px;
 	margin-top:15px;
-	margin-left:80px;
-	align:center;
+	
 }
